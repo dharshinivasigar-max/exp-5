@@ -1,4 +1,4 @@
-<img width="1911" height="1070" alt="Screenshot 2026-10-24 144056" src="https://github.com/user-attachments/assets/763ee242-5784-4a1c-87c0-04eb4def2621" /># sorting-of-numbers
+ sorting-of-numbers
 ## Aim
 To write and execute an Assembly Language Program for sorting data in Ascending and  descending order using 8051 microcontroller on Keil software.
 ---
